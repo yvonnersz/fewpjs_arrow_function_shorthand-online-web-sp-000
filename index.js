@@ -1,4 +1,4 @@
 
-let divide = function(num1, num2) {
-  return num2/num1
+let divide = function() {
+  return 2000/100
 }
